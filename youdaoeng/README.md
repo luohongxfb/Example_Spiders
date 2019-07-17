@@ -16,4 +16,4 @@
  "word": "proportion"}
  ```
  
- 包含读音.mp3的下载，详情请查看
+ 包含读音.mp3的下载，[详情查看](https://luohongxfb.github.io/2019/07/16/Scrapy-%E7%88%AC%E5%8F%96%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E7%9A%84%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89/)
